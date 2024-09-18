@@ -1,0 +1,6 @@
+@SecondAPIWithDatabase_HostAddress = http://localhost:5007
+
+GET {{SecondAPIWithDatabase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
